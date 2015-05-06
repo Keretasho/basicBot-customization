@@ -55,8 +55,8 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
-        language: "english",
+        botName: "Service",
+        language: "Deutsch",
         startupCap: 50, // 1-200
         startupVolume: 45, // 0-100
         startupEmoji: true, // true or false
