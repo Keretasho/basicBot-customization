@@ -58,7 +58,7 @@
         botName: "basicBot",
         language: "english",
         startupCap: 50, // 1-200
-        startupVolume: 50, // 0-100
+        startupVolume: 45, // 0-100
         startupEmoji: true, // true or false
         cmdDeletion: true,
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
