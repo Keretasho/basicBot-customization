@@ -61,7 +61,7 @@
         startupVolume: 45, // 0-100
         startupEmoji: true, // true or false
         cmdDeletion: true,
-        chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
+        chatLink: "https://rawgit.com/Keretasho/basicBot/master/lang/en.json",
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 60,
